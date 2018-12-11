@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Abstract.And.Concrete.Classes/src"/>
+	<classpathentry kind="src" path="Array.Holding.Many.Objects/src"/>
+	<classpathentry kind="src" path="ArrayList/src"/>
+	<classpathentry kind="src" path="Class.To.Hold.Objects/src"/>
+	<classpathentry kind="src" path="Composition/src"/>
+	<classpathentry kind="src" path="Design Patterns/DAO pattern/src"/>
+	<classpathentry kind="src" path="Design Patterns/Design.Pattern.Tutorial.1/src"/>
+	<classpathentry kind="src" path="Design Patterns/Observer.Design.Pattern.3/src"/>
+	<classpathentry kind="src" path="Design Patterns/Strategy.Design.Pattern.2/src"/>
+	<classpathentry kind="src" path="Enhanced.For.Loop/src"/>
+	<classpathentry kind="src" path="Event.handling/src"/>
+	<classpathentry kind="src" path="final/src"/>
+	<classpathentry kind="src" path="Get.User.Input/src"/>
+	<classpathentry kind="src" path="GUI.with.Jframe/src"/>
+	<classpathentry kind="src" path="GUI/src"/>
+	<classpathentry kind="src" path="GUIExample_2/src"/>
+	<classpathentry kind="src" path="Interfaces.And.Abstract.Classes/src"/>
+	<classpathentry kind="src" path="JDBC example/example/src/main/java"/>
+	<classpathentry kind="src" path="JDBC example/example/src/test/java"/>
+	<classpathentry kind="src" path="LambdaExpressions/src"/>
+	<classpathentry kind="src" path="MVC/src"/>
+	<classpathentry kind="src" path="Object.And.Clone.Class/src"/>
+	<classpathentry kind="src" path="Polymorphism/src"/>
+	<classpathentry kind="src" path="Simple.Polymorphic.Program/src"/>
+	<classpathentry kind="src" path="Static.Methods/src"/>
+	<classpathentry kind="src" path="Static.Variables/src"/>
+	<classpathentry kind="src" path="Threading/src"/>
+	<classpathentry kind="output" path="Abstract.And.Concrete.Classes/bin"/>
+</classpath>
